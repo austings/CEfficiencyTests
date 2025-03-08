@@ -25,4 +25,6 @@ if ( h->x1 < v->x1 && h->end > v->x1 && v->y1 < h->y1 && v->end > h->y1)
 }
 
 ```
+![image](https://github.com/user-attachments/assets/a09aeaf8-c4cb-4c4d-afe3-c48f644a5ef1)
+
 ![image](https://github.com/user-attachments/assets/50969ac7-20a0-4b1a-aaca-d4e87a859bac)
